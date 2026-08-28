@@ -1,0 +1,15 @@
+{
+	"name": "datavizon1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9f756aa-e9a0-4677-afa1-346e2346d532",
+		"tenantId": "16ed0f85-cd03-470c-969c-87f6e5df5185"
+	}
+}
